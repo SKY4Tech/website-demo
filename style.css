@@ -1,0 +1,151 @@
+.navigation{
+    background-image: linear-gradient(to right, #420404 50%, #ffffff00);
+}
+
+.navigation a{
+    font-family: 'Chillax-Medium';
+    text-decoration: none;
+    padding: 20px;
+    
+}
+
+p{
+    font-family: 'Chillax-Medium' ;
+
+}
+.main-header{
+    background-image: url(images/board.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+background-attachment:fixed;
+    background-position:center;
+font-family: 'Chillax-Medium' ;
+}
+.content h1{
+    font-family: 'Chillax-Medium';
+    
+}
+
+.margin1 {
+    margin: 0%;
+    padding: 100vh;
+    background-image: linear-gradient(to right, #420404 50%, #ffffff00);
+    background-size: 100%;
+    font-family: 'Chillax-Medium';
+}
+.blog{
+    padding-bottom: 50px;
+    font-family: 'Chillax-Medium';
+}
+.h-p{
+    padding-bottom: 50px;
+    font-family: 'Chillax-Medium';
+}
+.margin1 a {
+    transition: 0.1s;
+    font-weight: bold;
+    font-family: 'Chillax-Medium';
+}
+
+.margin1 a:hover {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 45,5px;
+    font-weight: bold;
+    border: 1px solid;
+}
+
+
+.float-left {
+    float: left;
+    width: 35%;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding: 20px;
+    font-family: 'Chillax-Medium';
+}
+
+.float-center {
+    width: 35%;
+    float: left;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding: 20px;
+    font-family: 'Chillax-Medium';
+}
+
+.float-right {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    margin-left: 20px;
+    padding: 20px;
+    font-family: 'Chillax-Medium';
+}
+.float-rightf h1,.float-left h1,.float-center h1{
+    font-weight: bold;
+    font-family: 'Chillax-Medium';
+    font-family: 'Chillax-bold';
+}
+.gallery{
+    
+    font-family: 'Chillax-Medium';
+}
+.gallery h1{
+    font-family: 'Chillax-Medium';
+    font-family: 'Chillax-Semibold';
+    text-decoration: underline;
+
+}
+.post{
+    margin-top: 60px;
+    
+}
+.gallery1{
+width: 80%;
+padding-left: 50px;
+margin-left: 200px;
+font-family: 'Chillax-Medium';
+}
+.footer{
+  
+font-family: 'Chillax-Medium';
+}
+.footer h1{
+    font-weight: bold;
+    color: #420404;
+}
+.footer li{
+    list-style: none;
+}
+.footer a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #420404;
+}
+.footer i{
+    color: #420404;
+}
+hr{
+
+}
+.footer-link i{
+    text-align: right;
+}
+.footer-link h1{
+    padding-left: 90px;
+    text-align: center;
+}
+.half{
+    float: left;
+    
+}
+.post h1{
+    font-family: 'Chillax-Medium';
+}
+.post{
+    margin-right: 40%;
+}
+.post p{
+    padding-left: 250px;
+}
